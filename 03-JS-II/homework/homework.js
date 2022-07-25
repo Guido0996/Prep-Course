@@ -167,7 +167,7 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
 var valor = numero;
 var cuenta = 0;
-  do {
+  do { 
  cuenta = cuenta + 1;
  valor = valor + 5;
   } while (cuenta < 8); return valor;
